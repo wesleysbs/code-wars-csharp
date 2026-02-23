@@ -1,2 +1,8 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CodeWarsCsharp.Challenges/CodeWarsCsharp.Challenges.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CodeWarsCsharp.UnitTests/CodeWarsCsharp.UnitTests.csproj" />
+  </Folder>
 </Solution>
