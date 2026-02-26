@@ -5,19 +5,20 @@ using System.Text;
 
 namespace CodeWarsCsharp.UnitTests.Kyu8;
 
-public class FindTheSmallestIntegerInTheArrayTests
+public class GetTheMeanOfAnArrayTests
 {
     [Fact]
-    public void FindSmallestInt_GivenAnArray_ShouldReturnExpectedSmallestInteger()
+    public void GetMeanArray_GivenAnArray_ShouldReturnExpectedMeanArray()
     {
         //Arrange
-        var inputIntValue = new int[] { 34, 15, 88, 2 };
+        var inputValue = new int[] { 2, 2, 2, 2 };
         var expectedResult = 2;
 
         //Act
-        var result = FindTheSmallestIntegerInTheArray.FindSmallestInt(inputIntValue);
+        var result = GetTheMeanOfAnArray.GetAverage(inputValue);
 
         //Assert
         Assert.Equal(expectedResult, result);
     }
 }
+
