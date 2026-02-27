@@ -1,1 +1,17 @@
-# code-wars-csharp
+# Aprendendo a linguagem C#
+
+## Objetivo
+
+O objetivo principal é aprender me divertindo, resolvendo desafios da plataforma Codewars com lógica de programação em uma linguagem de alto nível.
+Como objetivos secundários, pretendo aprimorar a sintaxe, consolidar a lógica de programação e explorar os principais recursos da linguagem.
+
+## Tecnologias usadas
+
+*  C#; 
+*  .NET;
+*  Codewars;
+*  Visual Studio
+
+## Autor
+
+* wesleysbs
