@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace CodeWarsCsharp.Challenges.Kyu8.ReturnTheDay;
+
+using System;
+
+public static class Kata
+{
+    public static string WhatDay(int n)
+    {
+        switch (n)
+        {
+            case 1: return "Sunday";
+            case 2: return "Monday";
+            case 3: return "Tuesday";
+            case 4: return "Wednesday";
+            case 5: return "Thursday";
+            case 6: return "Friday";
+            case 7: return "Saturday";
+            default: return "Wrong, please enter a number between 1 and 7";
+        }
+    }
+}
