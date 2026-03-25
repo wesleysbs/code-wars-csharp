@@ -18,3 +18,4 @@ Como objetivos secundários, pretendo aprimorar a sintaxe, consolidar a lógica 
 
 ## Documentações
 * [Estrutura Básica de um Programa Csharp](docs/estrutura-básica-de-um-programa-csharp.md)
+* [Restrições e Convenções para Nomes](docs/restrições-e-convenções-para-nomes)
