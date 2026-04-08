@@ -24,3 +24,4 @@ Como objetivos secundários, pretendo aprimorar a sintaxe, consolidar a lógica 
 * [Saída de Dados Csharp](docs/saida-de-dados-csharp.md)
 * [Conversão Implícita e Casting](docs/conversao-implicita-e-casting.md)
 * [Operadores de Atribuição](docs/operadores-de-atribuicao.md)
+* [Operadores Aritméticos](docs/operadores-aritmeticos.md)
