@@ -27,3 +27,4 @@ Como objetivos secundários, pretendo aprimorar a sintaxe, consolidar a lógica 
 * [Operadores Aritméticos](docs/operadores-aritmeticos.md)
 * [Operadores Comparativos](docs/operadores-comparativos.md)
 * [Operadores Lógicos](docs/operadores-logicos.md)
+* [Estrutura Condicional (if-else)](docs/estrutura-condicional-if-else.md)
