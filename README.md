@@ -30,3 +30,4 @@ Como objetivos secundários, pretendo aprimorar a sintaxe, consolidar a lógica 
 * [Estrutura Condicional (if-else)](docs/estrutura-condicional-if-else.md)
 * [Escopo e inicialização de variavéis](docs/escopo-e-inicializacao-de-variaveis.md)
 * [Funções (sintaxe)](docs/funcoes-sintaxe.md)
+* [Debugging com Visual Studio](docs/debugging-visual-studio.md)
