@@ -26,3 +26,4 @@ Como objetivos secundários, pretendo aprimorar a sintaxe, consolidar a lógica 
 * [Operadores de Atribuição](docs/operadores-de-atribuicao.md)
 * [Operadores Aritméticos](docs/operadores-aritmeticos.md)
 * [Operadores Comparativos](docs/operadores-comparativos.md)
+* [Operadores Lógicos](docs/operadores-logicos.md)
