@@ -32,3 +32,4 @@ Como objetivos secundários, pretendo aprimorar a sintaxe, consolidar a lógica 
 * [Funções (sintaxe)](docs/funcoes-sintaxe.md)
 * [Debugging com Visual Studio](docs/debugging-visual-studio.md)
 * [Estrutura Repetitiva (while)](docs/estrutura-repetitiva-while.md)
+* [Estrutura Repetitiva (for)](docs/estrutura-repetitiva-for.md)
