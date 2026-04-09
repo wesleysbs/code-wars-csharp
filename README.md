@@ -25,3 +25,4 @@ Como objetivos secundários, pretendo aprimorar a sintaxe, consolidar a lógica 
 * [Conversão Implícita e Casting](docs/conversao-implicita-e-casting.md)
 * [Operadores de Atribuição](docs/operadores-de-atribuicao.md)
 * [Operadores Aritméticos](docs/operadores-aritmeticos.md)
+* [Operadores Comparativos](docs/operadores-comparativos.md)

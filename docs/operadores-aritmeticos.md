@@ -1,9 +1,11 @@
+``` csharp
+ + → adição
+ - → subtração
+ * → multiplicação
+ / → divisão
+ % → resto da divisão
+```
 
-- + → adição
-- - → subtração
-- * → multiplicação
-- / → divisão
-- % → resto da divisão
 
 O operador “ % “ lê-se “mod”.
 
@@ -39,13 +41,13 @@ O C# avalia **a expressão primeiro**, **antes** de pensar na variável.
 Olhe para a linha:
 
 ```csharp
-int resultado = 10 /8;
+int resultado = 10 / 8;
 ```
 
 O compilador enxerga assim:
 
 ```csharp
-resultado = (10 /8);
+resultado = (10 / 8);
 ```
 
 Ele precisa resolver **(10 / 8)** antes.
