@@ -15,7 +15,7 @@ public class CheckSameCaseTests
     public void CheckSameCase_GivenTwoCharacters_ShouldReturnExpectedResult(char a, char b, int expected)
     {
         //Act
-        var result = Kata.SameCase(a, b, expected);
+        var result = Kata.SameCase(a, b);
 
         //Assert
         Assert.Equal(expected, result);
