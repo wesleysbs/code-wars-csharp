@@ -6,7 +6,7 @@ namespace CodeWarsCsharp.Challenges.Kyu8.SameCase;
 
 public class Kata
 {
-    public static int SameCase(char a, char b, int expected)
+    public static int SameCase(char a, char b)
     {
         if (!char.IsLetter(a) || !char.IsLetter(b))
             return -1;
