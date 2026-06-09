@@ -1,8 +1,9 @@
-﻿using System;
+﻿using CodeWarsCsharp.Challenges.Kyu8.MultiplicationTableForNumber;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CodeWarsCsharp.UnitTests.Kyu8.MultiplicationTableForNumber;
+namespace CodeWarsCsharp.UnitTests.Kyu8;
 
 public class MultiplicationTableForNumberTests
 {
@@ -13,7 +14,7 @@ public class MultiplicationTableForNumberTests
     public void MultiplicationTable_GivenAnInteger_ShouldReturnCorrectMultiplicationTable(int number, string expected)
     {
         //Act
-        var result = Kata.MultiTable(number);
+        var result = MultiplicationTableForNumberKata.MultiTable(number);
 
         //Assert
         Assert.Equal(expected, result);

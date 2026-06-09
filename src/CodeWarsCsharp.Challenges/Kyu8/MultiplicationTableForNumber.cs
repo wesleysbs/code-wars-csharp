@@ -1,10 +1,11 @@
-﻿using System;
+﻿using CodeWarsCsharp.Challenges.Kyu8;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CodeWarsCsharp.UnitTests.Kyu8.MultiplicationTableForNumber;
+namespace CodeWarsCsharp.Challenges.Kyu8.MultiplicationTableForNumber;
 
-public class Kata
+public class MultiplicationTableForNumberKata
 {
     public static string MultiTable(int number)
     {

@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CodeWarsCsharp.UnitTests.Kyu8.ReversedSequence;
+namespace CodeWarsCsharp.UnitTests.Kyu8;
 
 public class ReversedSequenceTests
 {
